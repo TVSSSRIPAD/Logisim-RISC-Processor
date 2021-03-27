@@ -1,11 +1,11 @@
 # Logisim-RISC-Processor
 A 32 - BIT RISC Processor implemented on Logisim.
 
-#### Instruction Encoding Scheme:-
+## Instruction Encoding Scheme:-
 1. For Instructions without Immediate Value:-
-    ![Regular Instruction without Immediate Value](/Logisim-RISC-Processor/screenshots/enc1.png)
+    ![Regular Instruction without Immediate Value](screenshots/enc1.png)
 2. For Instructions without Immediate Value:-
-   ![Regular Instruction without Immediate Value](/Logisim-RISC-Processor/screenshots/enc1.png)
+   ![Regular Instruction without Immediate Value](screenshots/enc1.png)
 
 #### The instruction Set of the processor consists of the following assembly commands:-
 
@@ -24,7 +24,7 @@ A 32 - BIT RISC Processor implemented on Logisim.
 13. HALT
 
 
-#### Assembler Table​ :-
+### Assembler Table​ :-
 
 
 | Assembly Instruction     | OP-Code |
@@ -45,18 +45,22 @@ A 32 - BIT RISC Processor implemented on Logisim.
 
  
 
-##### For more documentation and sample examples, have a look at -  [Encoding Schema and Examples ](Logisim-RISC-Processor/Encoding-Scheme-with-Examples.pdf) file.
+#### For more documentation and sample examples, have a look at -  [Encoding Schema and Examples ](Logisim-RISC-Processor/Encoding-Scheme-with-Examples.pdf) file.
 
-##### Circuit Designs for some components:-
+#### Circuit Designs for some components:-
 
-1. ALU 
+##### 1. ALU :-
+    
    ![ALU](screenshots/alu.png)
 
-2. Controll Signal generator for ALU
-    ![CSG-ALU](screenshots/csg-for-alu.png)
+##### 2. Controll Signal generator for ALU:-
+    
+  ![CSG-ALU](screenshots/csg-for-alu.png)
 
-3. Decode Stage and Control Signal Generator
-    ![D-CSG](screenshots/decode-csg.png)
+##### 3. Decode Stage and Control Signal Generator:-
+     
+  ![D-CSG](screenshots/decode-csg.png)
 
-4. Memory
+##### 4. Memory:-
+    
    ![memory](screenshots/memory.png)  
