@@ -45,7 +45,7 @@ A 32 - BIT RISC Processor implemented on Logisim.
 
  
 
-#### For more documentation and sample examples, have a look at -  [Encoding Schema and Examples ](Logisim-RISC-Processor/Encoding-Scheme-with-Examples.pdf) file.
+#### For more documentation and sample examples, have a look at -  [Encoding Schema and Examples ](Encoding-Scheme-with-Examples.pdf) file.
 
 #### Circuit Designs for some components:-
 
